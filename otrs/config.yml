@@ -1,0 +1,5 @@
+name: otrs
+description: |
+  Blog tool, publishing platform and CMS
+version: v0.2-danny
+category: Blogging
